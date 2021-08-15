@@ -1,4 +1,4 @@
-# Run Buddy
+# Run Buddy Inc.
 
 ## Purpose
 A website that offer fitness raining services.
